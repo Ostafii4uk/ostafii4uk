@@ -4,7 +4,7 @@ Hi 👋 My name is Nazar Ostafiichuk
 Frontend Developer
 ----------------------------------------------
 
-As a front-end engineer with 2 years of experience in web and mobile development, I approach every project with a deep commitment to delivering exceptional results. I am a persistent, initiative, and hard-working person. I have good knowledge and experience with Next.js, React, Redux, Vue, Vuex, Typescript, JavaScript, HTML, CSS, and Chrome extensions. Also, I am ready to learn Angular and Node.js other libraries. I enjoy delivering results and always do my best to achieve the goal. Also, I am friendly, proactive, and adaptable.
+As a front-end engineer with 3 years of experience in web and mobile development, I approach every project with a deep commitment to delivering exceptional results. I am a persistent, initiative, and hard-working person. I have good knowledge and experience with Next.js, React, Redux, Vue, Vuex, Typescript, JavaScript, HTML, CSS, and Chrome extensions. Also, I am ready to learn Angular and Node.js other libraries. I enjoy delivering results and always do my best to achieve the goal. Also, I am friendly, proactive, and adaptable.
 
     🌍  I'm based in Ivano-Frankivsk region, city Kolomyia.
     📩  You can contact me at nostafiichuk@gmail.com
